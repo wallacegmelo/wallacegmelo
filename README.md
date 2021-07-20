@@ -1,6 +1,6 @@
 # Wallace Melo
 
-CTO @ImpulseTechnology.
+CTO at @DropGeekStore.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@wallacegmelo-fed56c?style=flat-square&labelColor=fed56c&logo=instagram&logoColor=white&link=https://instagram.com/wallacegmelo)](https://instagram.com/wallacegmelo) 
